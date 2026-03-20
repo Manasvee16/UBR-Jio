@@ -119,17 +119,3 @@ const defaultCenter = [latitude, longitude] as [number, number]
 - Component-specific styles are in `src/App.css`
 - CSS variables for theme colors and spacing are defined in `:root`
 
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers
-
-## License
-
-Copyright © 2026 UBR Telecom. All rights reserved.
-
-## Support
-
-For issues or questions, please contact the development team.
